@@ -1,4 +1,4 @@
-## E aí Galera! Supermauz o seu amigo, vai salvá-lo do Perigo!
+
 
 ![Supermauz's GitHub stats](https://github-readme-stats.vercel.app/api?username=supermauz&show_icons=true&theme=merko)
 <div style="display: inline-block"><br>
